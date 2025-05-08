@@ -33,8 +33,10 @@
 </div>
 
 ### 🏆 Featured Projects
-[![CNC Pen Plotter](https://github-readme-stats.vercel.app/api/pin/?username=mochi-002&repo=2d_printer---RoboTech_2025_Fair--&theme=radical)](https://github.com/mochi-002/2d_printer---RoboTech_2025_Fair--)  
-A CNC machine that draws precise artwork using standard ink pens (Created for RoboTech 2025 Fair)
+
+[![RoboTech2025-PenPlotter](https://github-readme-stats.vercel.app/api/pin/?username=mochi-002&repo=RoboTech2025-PenPlotter&theme=radical&show_owner=true)](https://github.com/mochi-002/RoboTech2025-PenPlotter)  
+
+**RoboTech2025-PenPlotter**: An open-source 2D drawing robot that transforms digital images into physical artwork with precision G-code control. Developed for RoboTech 2025 Fair.
 
 ### 🤝 Let's Collaborate
 <div align="center">
