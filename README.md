@@ -65,15 +65,6 @@ Lives inside:
 
 ---
 
-# $ github.stats --view
-<div align="center">
-  
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=mochi-002&theme=radical&hide_border=true)
-
-</div>
-
----
-
 # $ contact
 
 > instagram: [motcha._.matasha](https://www.instagram.com/motcha._.matasha/)
