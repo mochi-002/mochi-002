@@ -73,5 +73,3 @@ Lives inside:
 # $ exit
 
 Connection terminated.
-
-Just tell me which flavor you want.
